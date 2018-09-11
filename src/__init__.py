@@ -1,1 +1,1 @@
-from scripts import retrain, label_image
+from . import retrain, label_image
