@@ -111,3 +111,9 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+# cached model files
+tf_files/bottlenecks/*
+tf_files/retrain_logs/*
+tf_files/output_graph.pb
+tf_files/output_labels.txt
