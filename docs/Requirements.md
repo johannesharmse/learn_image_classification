@@ -92,9 +92,9 @@ Running the above command will return the following:
   
 * To install a specific version of `numpy`, use the following command:
 
-```
-pip install numpy==1.14.5
-```
+  ```
+  pip install numpy==1.14.5
+  ```
 
 * To upgrade `numpy` run the following:
 
