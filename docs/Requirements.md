@@ -89,8 +89,14 @@ Running the above command will return the following:
   ```
   pip uninstall numpy
   ```
+  
+* To install a specific version of `numpy`, use the following command:
 
-* To upgrade `numpy` run the following_path
+```
+pip install numpy==1.14.5
+```
+
+* To upgrade `numpy` run the following:
 
   ```
   pip install -U numpy
